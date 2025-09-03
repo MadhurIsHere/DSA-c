@@ -1,5 +1,5 @@
 .vscode
 web/
-.exe
-.log
+*.exe
+*.log
 
